@@ -1,9 +1,11 @@
-# The SPARKS Foundation Repository(September, 2020)
-
-![Internship Completion Certificate at SPARKS Foundation](https://raw.githubusercontent.com/Dutta-SD/SPARKS/master/(Internship_Completion)SANDIP_DUTTA_TE8CW8U9EZ.jpg)
+# The SPARKS Foundation DSBA Repository(September, 2020 - October, 2020)
+> ### NOTE - This repo is for storing code and documents of the user [Sandip Dutta](https://github.com/Dutta-SD)
 
 This repository is for storing code related to internship at The SPARKS Foundation.
 During the internship, the following tasks were performed:
+* **Data Science Mentor (October - December, 2020)**
+    * Cleared doubts pertaining to tasks by fellow interns
+    * Received Letter of Recommendation for exceptional work
 
 * **Business Analytics (TASK - 4)** - In this *final task*,  we were to analyse a business data. 
   * Data was analysed using `pandas`. 
@@ -29,4 +31,6 @@ During the internship, the following tasks were performed:
 * **Student_data (TASK - 1)** - This folder contains data for some students. 
   * Task is to predict whether score increases if number of hours of study increases. 
   * We performed EDA and fitted a linear Regression model for this data. 
-  * The accuracy came to be about 95 % based on r2 score metric.
+  * The accuracy came to be about 95 % based on `r2_score` metric.
+  ------------------------------
+  ![Internship Completion Certificate at SPARKS Foundation](https://raw.githubusercontent.com/Dutta-SD/SPARKS/master/(Internship_Completion)SANDIP_DUTTA_TE8CW8U9EZ.jpg)
