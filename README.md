@@ -1,11 +1,15 @@
 # The SPARKS Foundation DSBA Repository(September, 2020 - October, 2020)
-> ### NOTE - This repo is for storing code and documents of the user [Sandip Dutta](https://github.com/Dutta-SD)
-
-This repository is for storing code related to internship at The SPARKS Foundation.
+This repo is for storing code and documents of the user [Sandip Dutta](https://github.com/Dutta-SD) related to internship at The SPARKS Foundation.
 During the internship, the following tasks were performed:
-* **Data Science Mentor (October - December, 2020)**
-    * Cleared doubts pertaining to tasks by fellow interns
-    * Received Letter of Recommendation for exceptional work
+## Data Science Mentor (October - December, 2020)
+ * Cleared doubts pertaining to tasks by fellow interns
+ * Received Letter of Recommendation for exceptional work
+------------
+<!--  LOR PNG -->
+![LOR_SPARKS_SANDIP_DUTTA](https://raw.githubusercontent.com/Dutta-SD/SPARKS/master/LOR_Sandip_Dutta.png)
+
+<!--  Data Science Intern-->
+## Data Science Intern (September 2020)
 
 * **Business Analytics (TASK - 4)** - In this *final task*,  we were to analyse a business data. 
   * Data was analysed using `pandas`. 
@@ -21,7 +25,7 @@ During the internship, the following tasks were performed:
   * Then we plotted decision surfaces for two features and checked the accuracy of the model. 
   * Decision tree gave a good f1-score(near to 1.00).
   
-* **iris_Unsupervised (TASK - 2)** - This folder is for the iris data analysis using **KMeans and DBSCAN algorithm**. 
+* **Iris_Unsupervised (TASK - 2)** - This folder is for the iris data analysis using **KMeans and DBSCAN algorithm**. 
   * First plots were generated and features visualised. 
   * Then DBSCAN was applied and we got the optimum number of clusters as 3. 
   * We shifted to K Means(after scaling the data). 
